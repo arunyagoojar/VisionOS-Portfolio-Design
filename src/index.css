@@ -1,0 +1,15 @@
+html{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: SF Pro Display;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  color: rgba(255, 255, 255, 0.8);
+  background-image: url("spiderman3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
